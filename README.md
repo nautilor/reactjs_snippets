@@ -7,3 +7,6 @@ To test them you need a react application
     create-react-app template
 
 After you created the React app just copy all the file from a folder and in your `App.js` include and render the `Parent` controller then start it with `npm start`
+
+>Note that some snippets may require additional dependecies
+>Always look inside Parent.js to know which one you need
