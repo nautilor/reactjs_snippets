@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Consumer } from './Context'
 
-export class SecondNestedChild extends Component {
+class SecondNestedChild extends Component {
     render() {
         return (
             <Consumer>

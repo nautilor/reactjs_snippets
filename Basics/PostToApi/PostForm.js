@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class PostForm extends Component {
+class PostForm extends Component {
 
     constructor(props) {
         super(props)

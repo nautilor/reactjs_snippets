@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import PostForm from './PostForm';
+import UseStateList from './UseStateList';
 
-export class Parent extends Component {
+class Parent extends Component {
     render() {
         return (
             <div>
-                <PostForm />
+                <UseStateList />
             </div>
         )
     }

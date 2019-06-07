@@ -5,7 +5,7 @@ import About from './About'
 import Info from './Info'
 
 /* This snippet require react-router-dom */
-export class Parent extends Component {
+class Parent extends Component {
 
     render() {
         return (

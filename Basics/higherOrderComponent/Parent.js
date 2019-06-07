@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Button from './Button';
 
-export class Parent extends Component {
+class Parent extends Component {
 
     render () {
         return (
